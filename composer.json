@@ -1,0 +1,17 @@
+{
+    "name": "fleksoy/example",
+    "description": "testoviy pack",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Fleksoy\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fleksoy",
+            "email": "fleksoy@example.com"
+        }
+    ],
+    "require": {}
+}
