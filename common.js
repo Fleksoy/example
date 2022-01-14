@@ -27,6 +27,7 @@ class Guss {
     }
 
 }
+let chacnge='';
 let body='<div class="guss">' +
     '░░░░░░░░░░░░░░░░░░░░ ' +
     '░░░░░░░░░░░░░░░░░░░░ ' +
